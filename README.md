@@ -2,7 +2,7 @@
 
 A guided visual story from inflation to the first atoms.
 
-This is the standalone GitHub Pages build of the `early_universe` applet from the [physics_demos source collection](https://github.com/MartinAlvarezSergio/physics_demos).
+This is the standalone GitHub Pages build of the `early_universe` applet from the local `physics_demos` source collection.
 
 Live: https://martinalvarezsergio.github.io/early_universe_playground/
 
